@@ -1,6 +1,6 @@
 cask "oblivion-desktop" do
-  version "0.10.8-beta"
-  sha256 "4162caa815cf7c811951278e3afcf8b2b0b4abd59861fc583acb3949d2172168"
+  version "0.14.1-beta"
+  sha256 "b92e2d0e8cb9dd8b181fc99b9e4dfd7d8d1e35c6533ebb803c7b1f5109bff553"
 
   url "https://github.com/bepass-org/oblivion-desktop/releases/download/v#{version}/oblivion-desktop-mac-x64.zip"
   name "Oblivoin Desktop"
