@@ -27,3 +27,4 @@ jobs:
         env:
           GITHUB_TOKEN: "${{ secrets.TOKEN }}"
           MERGE_LABELS: "automerge"
+          MERGE_FILTER_AUTHOR: "amirali"
