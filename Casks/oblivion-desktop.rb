@@ -4,7 +4,7 @@ cask "oblivion-desktop" do
 
   url "https://github.com/bepass-org/oblivion-desktop/releases/download/v#{version}/oblivion-desktop-mac-x64.zip"
   name "Oblivoin Desktop"
-  desc "Unofficial Warp client for mac"
+  desc "Unofficial Warp client"
   homepage "https://github.com/bepass-org/oblivion-desktop/"
 
   app "Oblivion Desktop.app"
